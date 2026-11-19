@@ -1,3 +1,7 @@
+[![bounty](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Andia86/makefun-news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Andia86/makefun-news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+
 # The Day in World News — Thursday 19 November 2026
 
 **44 stories · 6 continents · one page**
